@@ -1,6 +1,24 @@
-(
+[
+  {
     "name": "Mr.Surasit Ainwiset",
     "title": "Digital Science And Technology Student",
     "phone": "+66 967 650 880",
-    "email": "surasit.ai@ku.th"
-)
+    "email": "surasit.ai@ku.th",
+    "image": ""
+  },
+  {
+    "name": "Mr.Saksit Kumkeaw",
+    "title": "Digital Science And Technology Student",
+    "phone": "+66 934 455 482",
+    "email": "saksit.ku@ku.th",
+    "image": ""
+  },
+  {
+    "name": "Mr.Kantrapong Kutbangyang",
+    "title": "Digital Science And Technology Student",
+    "phone": "+66 955 587 100",
+    "email": "kantrapong.k@ku.th",
+    "image": ""
+  }
+]
+
